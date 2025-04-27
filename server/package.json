@@ -1,10 +1,6 @@
 {
     "engines": {
-<<<<<<< HEAD
         "node": "22.13.0"
-=======
-        "node": "22"
->>>>>>> 84bd604f8a1d3f42078765c99f952b9a5290e11f
     },
     "name": "chatbuddies",
     "version": "1.0.0",
