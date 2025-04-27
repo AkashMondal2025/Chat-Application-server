@@ -37,6 +37,6 @@ const PORT = process.env.PORT || 5000;
 
 dbConnection();
 
-server.listen({ port: PORT, host: "0.0.0.1" }, () => {
+server.listen({ port: PORT, host: "127.0.0.1" }, () => {
     console.log(" your server is running successfully ", PORT);
 });
